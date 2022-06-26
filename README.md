@@ -1,0 +1,4 @@
+- 🎓 Estudiante
+- 🧡 Hobbyst
+- 🎨 Artista
+- 🤵 Procrastinador profesional.
