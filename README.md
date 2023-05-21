@@ -6,17 +6,14 @@
     <link rel="stylesheet" href="./styles.css">
 </head>
 <body>
-    <div class="Principal">
+    <p align="center">
         <img src="./Logo.svg" alt="Logo" width="460px" height="460px">
-        <p class="TituloPrincipal">¡Hola soy Yidra!</p>
-    </div>
-    <center>
-    <div class="seccion">
-        <p class="texto">
+        <p align="center" class="TituloPrincipal">¡Hola soy Yidra!</p>
+        <p align="center">
             Un estudiante al que le encanta Dibujar, programar, escuchar música y los videojuegos 😊
         </p>
     </div>
-    </center>
+    <p
 </body>
 
 </html>
