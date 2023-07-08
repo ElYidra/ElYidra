@@ -1,0 +1,46 @@
+
+::selection{
+    background: #6A89FF;
+    color: #FFFF;
+}
+
+::-moz-selection{
+    background: #6A89FF;
+    color: #FFFF;
+}
+
+body{
+    background-color: #E5EBFF;
+    font-family: 'Sora';
+}
+
+.logo{
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.Principal{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 40px 30px;
+}
+
+.seccion{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 10px 30px;
+    width: 60%;
+}
+
+.TituloPrincipal{
+    font-weight: 800;
+    font-size: 64px;
+}
+
+.texto{
+    font-size: 24px;
+    font-weight: 400;
+}
